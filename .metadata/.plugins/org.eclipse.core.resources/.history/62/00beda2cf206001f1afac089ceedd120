@@ -1,0 +1,10 @@
+package hr.fer.oop;
+
+public class CountableKeyValueMapEntry<Integer,V> extends KeyValueMapEntry<Integer, V> {
+
+	public CountableKeyValueMapEntry(K key, V value) {
+		super(key, value);
+		// TODO Auto-generated constructor stub
+	}
+
+}

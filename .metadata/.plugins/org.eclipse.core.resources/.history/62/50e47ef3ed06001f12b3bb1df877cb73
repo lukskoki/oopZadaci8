@@ -1,0 +1,12 @@
+package hr.fer.oop;
+
+public class main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		KeyValueParameterized kv = new KeyValueParameterized<String, double>("bok", 1);
+		
+		System.out.println(kv);
+	}
+
+}

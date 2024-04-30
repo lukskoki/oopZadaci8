@@ -1,0 +1,23 @@
+package hr.fer.oop;
+
+public class main {
+
+	public static void main(String[] args) {
+		int x = 2;
+		Integer y = Integer.valueOf(x);
+		int z = y.intValue();
+		
+		Integer h = x;
+		int j = h;
+		
+		System.out.println(h+j);
+		
+		
+	}
+	
+	public static <K extends Number, ?> double calculateAverageKey(KeyValueMapEntry<K, ?>... entries) {
+		return 0;
+		
+	}
+
+}

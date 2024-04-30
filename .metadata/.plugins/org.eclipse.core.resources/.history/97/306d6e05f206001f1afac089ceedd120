@@ -1,0 +1,5 @@
+package hr.fer.oop;
+
+public class CountableKeyValueMapEntry extends KeyValueMapEntry<K, V> {
+
+}

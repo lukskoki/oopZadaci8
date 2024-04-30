@@ -1,0 +1,11 @@
+package hr.fer.oop;
+
+public class main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Integer x = new Integer();
+		
+	}
+
+}

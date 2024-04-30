@@ -1,0 +1,23 @@
+package hr.fer.oop;
+
+public class KeyValueMapEntry<K, V> implements java.util.Map.Entry<K, V> {
+
+	@Override
+	public K getKey() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public V getValue() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public V setValue(V value) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

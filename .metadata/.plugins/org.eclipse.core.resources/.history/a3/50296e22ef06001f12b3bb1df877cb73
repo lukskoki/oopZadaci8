@@ -1,0 +1,13 @@
+package hr.fer.oop;
+
+public class main {
+
+	public static void main(String[] args) {
+		int x = 2;
+		Integer y = Integer.valueOf(x);
+		int z = y.intValue();
+		
+		
+	}
+
+}
