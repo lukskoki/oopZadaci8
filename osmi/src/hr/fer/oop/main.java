@@ -3,13 +3,7 @@ package hr.fer.oop;
 public class main {
 
 	public static void main(String[] args) {
-		CountableKeyValueMapEntry<String> c1 = new CountableKeyValueMapEntry<String>(1, "Dinamo");
-		KeyValueMapEntry<Integer, String> c2 = new CountableKeyValueMapEntry<String>(9, "Varazdin");
-		KeyValueMapEntry<Integer, String> c3 = new KeyValueMapEntry<Integer, String>(4, "Rijeka");	 
-		
-		System.out.println(c1);
-		System.out.println(c2);
-		System.out.println(c3);
+		System.out.println((1+2+3+1)/3.);
 		
 		
 	}
