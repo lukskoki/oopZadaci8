@@ -1,0 +1,6 @@
+package hr.fer.oop;
+
+public class KeyValueParameterized<K, V> {
+	K key;
+	V value;
+}
